@@ -1,18 +1,14 @@
-Last news
----------
-Some time ago I developed this extension for [InDaHouseRulez SL](http://www.indahouserulez.com). I no longer work there, but I still support the extension.
-
-The extension was released under the [MIT license](http://www.opensource.org/licenses/mit-license.php), so I made a fork on [GitHub](https://github.com), where you'll find the latest version:
-
-[https://github.com/jorgebg/yii-echeckboxtree](https://github.com/jorgebg/yii-echeckboxtree)
-
-
 Introduction
 ------------
 
 This extension uses **Valerio Galiano's jQuery checkboxTree plugin** and extends CJuiWidget.
 
 checkboxTree is lightweight jQuery plugin to handle collapsible checkbox's tree.
+
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=jorgebg&url=https://github.com/jorgebg/yii-echeckboxtreeh&title=yii-echeckboxtreeh&language=en_GB&tags=github&category=software) 
+
+
 
 Features
 --------
@@ -77,3 +73,11 @@ Config the widget with the $options attribute. You can find the plugin documenta
  * [Documentation](http://code.google.com/p/checkboxtree/wiki/UserDocs04)
  * [Try out a demo](http://checkboxtree.daredevel.it/tags/checkboxtree-0.4/)
 
+
+ Last news
+---------
+Some time ago I developed this extension for [InDaHouseRulez SL](http://www.indahouserulez.com). I no longer work there, but I still support the extension.
+
+The extension was released under the [MIT license](http://www.opensource.org/licenses/mit-license.php), so I made a fork on [GitHub](https://github.com), where you'll find the latest version:
+
+[https://github.com/jorgebg/yii-echeckboxtree](https://github.com/jorgebg/yii-echeckboxtree)
