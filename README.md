@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-This extension uses **Valerio Galiano's jQuery checkboxTree plugin** and extends CJuiWidget.
+This extension uses **Valerio Galano's jQuery checkboxTree plugin** and extends CJuiWidget.
 
 checkboxTree is lightweight jQuery plugin to handle collapsible checkbox's tree.
 
