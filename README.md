@@ -1,3 +1,10 @@
+Important
+---------
+
+The `checkboxtree` project development has been suspended. Please check the project homepage:
+http://code.google.com/p/checkboxtree/
+
+
 Introduction
 ------------
 
@@ -71,7 +78,6 @@ Config the widget with the $options attribute. You can find the plugin documenta
  * [InDaHouseRulez SL](http://www.indahouserulez.com)
  * [Project page](http://code.google.com/p/checkboxtree/)
  * [Documentation](http://code.google.com/p/checkboxtree/wiki/UserDocs04)
- * [Try out a demo](http://checkboxtree.daredevel.it/tags/checkboxtree-0.4/)
 
 
  Last news
